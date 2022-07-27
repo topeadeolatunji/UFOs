@@ -12,8 +12,10 @@ In viewing the webpage, users can see that the Dana's short article on UFOs and 
 
 Users can view the webpage and see the different UFO sightings that occurred in 2010 and be able to filter by date, city, country, etc. For example, in Dana's homestate of Oregon, there were 3 UFO sightings within a span of 12 days and that lasted for few minutes. Another observation a user of the webpage can make is that the UFO sightings can last for as little a 1 second to several hours in some cases. Most of the UFO sightings occurred in a couple of minutes and are not long duration.
 
+![image](https://user-images.githubusercontent.com/104689265/181257150-a39ba2f0-b189-40ed-9b3e-9f3dbc0efbb7.png)
 
 ## Summary and conclusion
 
 In summary, Dana's webpage on the existence of extra terraterral life forms on earth is evidenced by the several UFO sightings in January 2010 in North American cities, particularly the U.S. An observant user will want to explore more and delve into a more recent UFO sightings. He/She will have several questions such as. 'are there pictorial evidence of any of these UFO sightings?', 'what about other places around the world, outside of north america?', & 'what about eye witness interviews?'.
 
+Clearly, this is just a start, albeit a good one, of a long journey for Dana into UFO sightings as she has a lot of work to do. 
